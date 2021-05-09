@@ -1,6 +1,6 @@
 # Codelabs
 
-I have made a simple UI as shown in Codelabs.And I had don it on separate branches.
+I have made a simple UI as shown in Codelabs.And I had done it on separate branches.
 
 # Branches
 [Codelab Hello Shared Preferences](https://github.com/jayakumari1503/Codelabs/tree/9.1) and you can download [APK](https://github.com/jayakumari1503/Codelabs/releases/download/v4/app-debug.apk) here
