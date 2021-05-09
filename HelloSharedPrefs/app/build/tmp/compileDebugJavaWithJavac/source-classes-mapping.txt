@@ -1,0 +1,12 @@
+com/streamliners/hellosharedprefs/databinding/ActivityMainBinding.java
+ com.streamliners.hellosharedprefs.databinding.ActivityMainBinding
+com/streamliners/hellosharedprefs/MainActivity.java
+ com.streamliners.hellosharedprefs.MainActivity
+ com.streamliners.hellosharedprefs.MainActivity$1
+ com.streamliners.hellosharedprefs.MainActivity$2
+ com.streamliners.hellosharedprefs.MainActivity$3
+ com.streamliners.hellosharedprefs.MainActivity$4
+ com.streamliners.hellosharedprefs.MainActivity$5
+ com.streamliners.hellosharedprefs.MainActivity$6
+com/streamliners/hellosharedprefs/BuildConfig.java
+ com.streamliners.hellosharedprefs.BuildConfig
